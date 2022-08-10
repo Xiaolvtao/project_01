@@ -1,0 +1,4 @@
+# 忽略login.js
+login.js
+# 忽略 text/ 文件夹下的文件
+text/
